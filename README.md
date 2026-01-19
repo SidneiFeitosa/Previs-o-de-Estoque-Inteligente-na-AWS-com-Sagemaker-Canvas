@@ -7,7 +7,7 @@ Para começar, vou organizar o projeto em módulos para facilitar o entendimento
 3. Treinamento do modelo de previsão de estoque
 4. Avaliação do modelo
 5. Implantação do modelo
-6. Documentação do processo no repositório Git
+6. Documentação do processo no repositório Git.
 
 Agora, vamos começar a estruturar o projeto com exemplos de código em cada módulo:
 
